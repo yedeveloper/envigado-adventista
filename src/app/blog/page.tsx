@@ -5,8 +5,8 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog Page | Free Next.js Template for Startup and SaaS",
-  description: "This is Blog Page for Startup Nextjs Template",
+  title: "Noticias | Iglesia Adventista del séptimo día Envigado",
+  description: "Noticias y eventos de la Iglesia Adventista del séptimo día Envigado",
   // other metadata
 };
 

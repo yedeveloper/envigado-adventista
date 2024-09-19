@@ -4,8 +4,8 @@ import Contact from "@/components/Contact";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Contact Page | Free Next.js Template for Startup and SaaS",
-  description: "This is Contact Page for Startup Nextjs Template",
+  title: "Contacto | Iglesia Adventista del séptimo día Envigado",
+  description: "Página de contacto de la Iglesia Adventista del séptimo día Envigado",
   // other metadata
 };
 
