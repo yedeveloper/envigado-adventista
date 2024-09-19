@@ -12,10 +12,10 @@ const Hero = () => {
             <div className="w-full px-4">
               <div className="mx-auto max-w-[800px] text-center">
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                  Bienvenido a la Iglesia adventista del séptimo día Envigado
+                  Iglesia adventista del séptimo día Envigado
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  Los adventistas del séptimo día tenemos la esperanza del regreso de Jesús y confiamos en la Biblia como guía y Palabra de Dios.
+                  Los adventistas del séptimo día en Envigado tenemos la esperanza del regreso de Jesús y confiamos en la Biblia como guía y Palabra de Dios.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
