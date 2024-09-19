@@ -14,8 +14,8 @@ const AboutPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="¿Quienes somos?"
+        description="Los adventistas del séptimo día tenemos la esperanza del regreso de Jesús y confiamos en la Biblia como guía y Palabra de Dios."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
